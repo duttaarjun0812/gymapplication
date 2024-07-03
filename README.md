@@ -5,13 +5,14 @@
 gym application is a modern real estate platform built using the MERN stack. It offers users the ability to browse, list, and manage property listings with an integrated authentication system. The project incorporates user authentication  and Google authentication using Firebase.
 
 ## Authors
-   **Training project (Batch-1)**
+   **Training project (Batch-4)**
+   **(Course: BCA 4th semester)**
 
 - **harshit bajpai**
   - Roll Number: 22015002278
 - **aradhya singh**
   - Roll Number: 22015002255
-  - **Arjun dutta**
+- **Arjun dutta**
   - Roll Number: 22015002256
 
 ## Features
