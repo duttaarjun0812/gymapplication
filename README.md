@@ -8,9 +8,9 @@ gym application is a modern real estate platform built using the MERN stack. It 
    **Training project (Batch-4)**
    **(Course: BCA 4th semester)**
 
-- **harshit bajpai**
+- **Harshit bajpai**
   - Roll Number: 22015002278
-- **aradhya singh**
+- **Aradhya singh**
   - Roll Number: 22015002255
 - **Arjun dutta**
   - Roll Number: 22015002256
